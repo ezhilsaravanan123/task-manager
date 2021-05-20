@@ -28,7 +28,7 @@ $ pip install ptop
 or
 
 ```bash
-$  git clone https://github.com/darxtrix/ptop
+$  git clone https://github.com/ezhilsaravanan123/task-manager
 $ cd ptop/
 $ pip install -r requirements.txt # install requirements
 $ sudo python setup.py install
